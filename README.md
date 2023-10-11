@@ -1,2 +1,2 @@
-# article-HTML
+# article
 Статейка на чистом HTML
